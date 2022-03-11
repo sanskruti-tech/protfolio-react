@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/protfolio-react/static/css/main.d8843bd7.css",
+    "main.js": "/protfolio-react/static/js/main.7f744bd7.js",
+    "static/media/web_project_3.jpg": "/protfolio-react/static/media/web_project_3.f0dc87ff1f58bda9abef.jpg",
+    "static/media/web_project.jpg": "/protfolio-react/static/media/web_project.b1f39023e60e41c0f919.jpg",
+    "static/media/girl.jpg": "/protfolio-react/static/media/girl.190932c4f5270a2c3960.jpg",
+    "static/media/web_project_2.jpg": "/protfolio-react/static/media/web_project_2.75b2d8375f91f8a88ada.jpg",
+    "static/media/bg.jpg": "/protfolio-react/static/media/bg.c1a972b4869e06efcdcc.jpg",
+    "static/media/girl_2.png": "/protfolio-react/static/media/girl_2.0b1af57e053af4bcc21c.png",
+    "static/media/cv.pdf": "/protfolio-react/static/media/cv.ef7ae5fbe70f83c95f0d.pdf",
+    "index.html": "/protfolio-react/index.html",
+    "main.d8843bd7.css.map": "/protfolio-react/static/css/main.d8843bd7.css.map",
+    "main.7f744bd7.js.map": "/protfolio-react/static/js/main.7f744bd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8843bd7.css",
+    "static/js/main.7f744bd7.js"
+  ]
+}
